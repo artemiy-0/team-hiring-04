@@ -13,10 +13,10 @@
 
 | Роль | Участник | GitHub | Отвечает за |
 |---|---|---|---|
-| Капитан | @artemiy-0 | @artemiy-0 | Репозиторий, этапы и сдачу |
-| Требования и качество | @romu1etta | @romu1etta | `04_requirements.md`, качество и ревью требований |
-| Архитектор решения | @artemkrskk | @artemkrskk | `03_tobe_architecture.md` |
-| Аналитик процессов | @Valeriia15 | @Valeriia15 | `01_problem.md`, `02_asis_analysis.md` |
+| Капитан | Артемий Чуриков | @artemiy-0 | Репозиторий, этапы и сдачу |
+| Требования и качество | Роман Зеленский | @romu1etta | `04_requirements.md`, качество и ревью требований |
+| Архитектор решения | Артем Корсак | @artemkrskk | `03_tobe_architecture.md` |
+| Аналитик процессов | Валерия Горюнова | @Valeriia15 | `01_problem.md`, `02_asis_analysis.md` |
 
 ## Документы
 
